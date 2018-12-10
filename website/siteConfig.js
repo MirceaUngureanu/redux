@@ -14,12 +14,15 @@ const siteConfig = {
   url: "https://redux-docs.netlify.com", // Your website URL
   baseUrl: "/", // Base URL for your project */
   docsUrl : "", // don't prefix docs URLs with /docs/
+
+  // Disable search until we get a new API key from Algolia
+  /*
   algolia: {
     ***REMOVED***,
     indexName: 'redux',
     algoliaOptions: {}
   },
-
+*/
 
   // Used for publishing and more
   projectName: "redux",
