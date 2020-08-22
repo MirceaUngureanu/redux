@@ -117,7 +117,7 @@ module.exports = {
       copyright: `Copyright © 2015–${new Date().getFullYear()} Dan Abramov and the Redux documentation authors.`
     },
     algolia: {
-      ***REMOVED***,
+      apiKey: '518c6e3c629811d8daa1d21dc8bcfa37',
       indexName: 'redux',
       algoliaOptions: {}
     },
